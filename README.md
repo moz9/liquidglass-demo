@@ -1,10 +1,10 @@
-# Liquid Glass demo
+# Liquid Glass Kit demo
 
 [Open the public demo](https://moz9.github.io/liquidglass-demo/).
 
-Opens on a live product page built with the Liquid Glass web kit: the glass toolbar, segmented filter, menu, dock and settings refract the real HTML underneath. Further tabs are a lab of components, optics, animation, live controls and icon examples. Everything is one standalone HTML file that can download an offline copy of itself.
+Liquid Glass Kit brings liquid glass to existing interfaces on the web, Android and WinUI 3: a lens that refracts the real content underneath, liquid tabs and controls, a density setting, system accessibility preferences and a pixel-level audit. This page is one standalone HTML file: an overview of the library, a product page built on the web kit and lab sections for components, optics, motion, live controls and icons. It can download an offline copy of itself.
 
 This repository publishes the browser demo only. Its HTML, CSS and JavaScript are public; the skill instructions, development tools and source history are maintained separately.
 
-Current demo source: c34e44ede3ef6c827600d9be0a4b730a6f17ba45.
-SHA-256 of index.html: 56e4014c079f7d6eca7c4c139576d61517fcadbb5ad034dc664fb755a3b62de3.
+Current demo source: 7ed9e6bd32796ebfdcdf31a4a9dda82521c02238.
+SHA-256 of index.html: 1b3a8c336bf2587fe0ec607f39fa87b15ab04e9a365d5ad96d00e755b3528b6f.
